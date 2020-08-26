@@ -1,5 +1,46 @@
-/* Give your page a fun background color */
+/* Give your page a fun background color  */
+body {
+  background-color: #fefbd8;
+}
 
+h1 {
+  background-color: #80ced6:
+}
+
+div {
+  background-color: #d5f4e6;
+}
+
+span {
+  background-color: #f18973;
+}
+footer {
+  background-color: #5f9ea0;
+}
+
+h1{
+    color: #5f9ea0;
+    font-size:72px;
+    text-align:center;
+    display:inline-block;
+    position:relative;
+    width:100%; /*Add this*/
+   }
+
+img {
+  border: 5px solid #555;
+}
+
+ul {
+  font:15px "Arial",san-serif;
+}
+
+p {
+  font-size:14px;
+  color: #538601;
+  font-weight:bold;
+  font-style:italic;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
